@@ -2,6 +2,8 @@
 
 A **console-based Tic-Tac-Toe game** where you play against an **unbeatable AI** using the **Minimax algorithm**. This project demonstrates game logic, recursion, and decision tree algorithms in a clean and modular Python codebase.
 
+🔗 [Live Repository](https://github.com/MEHATAJ-PS/AI-TicTacToe)
+
 ## 🧠 Features
 - 🎮 Human vs AI gameplay
 - ♾️ AI is unbeatable using the Minimax strategy
